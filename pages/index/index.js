@@ -1,5 +1,5 @@
 //index.js
-//获取应用实例
+//获取应用实例试一下
 const app = getApp()
 
 Page({
